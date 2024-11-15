@@ -1,0 +1,55 @@
+*{
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body{
+  margin: 0px;
+  background-color: rgb(27, 26, 26);
+}
+header{
+  background-color: #4398a3;
+  color: black;
+  padding: 5px;
+}
+main{
+  background-color: beige;
+  color: black;
+  width: 400px;
+  margin: auto;
+  padding: 25px;
+}
+footer{
+  background-color: beige;
+  color: black;
+  padding: 10px;
+}
+div{
+  margin-top: 10px;
+  padding: 10px;
+  border-bottom: 1px solid #327fa8;
+}
+.posteo{
+  background-color: azure;
+}
+.anuncio{
+  background-color: rebeccapurple;
+}
+#foto-perfil{
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+img{
+  width: 100%;
+}
+#nombre-usuario{
+  font-weight: bold;
+  font-family: "Jost", sans-serif;
+  border-bottom: 1px solid black;
+  font-size: 20px;
+}
+h2{
+  text-align: center;
+  font-size: 30px;
+}
